@@ -1,0 +1,90 @@
+6月 17, 2021 7:30:01 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server.服务器版本: Apache Tomcat/7.0.109
+6月 17, 2021 7:30:01 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: 服务器构建:        Apr 22 2021 18:43:38 UTC
+6月 17, 2021 7:30:01 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: 服务器版本号:      7.0.109.0
+6月 17, 2021 7:30:01 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: 操作系统名称:      Mac OS X
+6月 17, 2021 7:30:01 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS.版本:           10.16
+6月 17, 2021 7:30:01 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: 架构:              x86_64
+6月 17, 2021 7:30:01 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Java 环境变量:     /Library/Java/JavaVirtualMachines/jdk-11.0.11.jdk/Contents/Home
+6月 17, 2021 7:30:01 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Java虚拟机版本:    11.0.11+9-LTS-194
+6月 17, 2021 7:30:01 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM.供应商:        Oracle Corporation
+6月 17, 2021 7:30:01 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_BASE:     /Users/lovixk/test/tomcat_notes/apache-tomcat-7.0.109
+6月 17, 2021 7:30:01 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_HOME:     /Users/lovixk/test/tomcat_notes/apache-tomcat-7.0.109
+6月 17, 2021 7:30:01 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: 命令行参数：       --add-opens=java.base/java.lang=ALL-UNNAMED
+6月 17, 2021 7:30:01 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: 命令行参数：       --add-opens=java.base/java.io=ALL-UNNAMED
+6月 17, 2021 7:30:01 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: 命令行参数：       --add-opens=java.base/java.util=ALL-UNNAMED
+6月 17, 2021 7:30:01 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: 命令行参数：       --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+6月 17, 2021 7:30:01 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: 命令行参数：       --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+6月 17, 2021 7:30:01 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: 命令行参数：       -Djava.util.logging.config.file=/Users/lovixk/test/tomcat_notes/apache-tomcat-7.0.109/conf/logging.properties
+6月 17, 2021 7:30:01 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+6月 17, 2021 7:30:01 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+6月 17, 2021 7:30:01 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: 命令行参数：       -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+6月 17, 2021 7:30:01 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: 命令行参数：       -Dignore.endorsed.dirs=
+6月 17, 2021 7:30:01 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: 命令行参数：       -Dcatalina.base=/Users/lovixk/test/tomcat_notes/apache-tomcat-7.0.109
+6月 17, 2021 7:30:01 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: 命令行参数：       -Dcatalina.home=/Users/lovixk/test/tomcat_notes/apache-tomcat-7.0.109
+6月 17, 2021 7:30:01 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: 命令行参数：       -Djava.io.tmpdir=/Users/lovixk/test/tomcat_notes/apache-tomcat-7.0.109/temp
+6月 17, 2021 7:30:01 上午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: 在java.library.path:[/Users/lovixk/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]上找不到基于APR的Apache Tomcat本机库，该库允许在生产环境中获得最佳性能
+6月 17, 2021 7:30:01 上午 org.apache.coyote.AbstractProtocol init
+信息: 初始化协议处理器 ["http-bio-8080"]
+6月 17, 2021 7:30:01 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1197 ms
+6月 17, 2021 7:30:02 上午 org.apache.catalina.core.StandardService startInternal
+信息: 正在启动服务[Catalina]
+6月 17, 2021 7:30:02 上午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.109
+6月 17, 2021 7:30:02 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: 把web 应用程序部署到目录 [/Users/lovixk/test/tomcat_notes/apache-tomcat-7.0.109/webapps/docs]
+6月 17, 2021 7:30:02 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Web应用程序目录[/Users/lovixk/test/tomcat_notes/apache-tomcat-7.0.109/webapps/docs]的部署已在[631]毫秒内完成
+6月 17, 2021 7:30:02 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: 把web 应用程序部署到目录 [/Users/lovixk/test/tomcat_notes/apache-tomcat-7.0.109/webapps/manager]
+6月 17, 2021 7:30:02 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Web应用程序目录[/Users/lovixk/test/tomcat_notes/apache-tomcat-7.0.109/webapps/manager]的部署已在[143]毫秒内完成
+6月 17, 2021 7:30:02 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: 把web 应用程序部署到目录 [/Users/lovixk/test/tomcat_notes/apache-tomcat-7.0.109/webapps/examples]
+6月 17, 2021 7:30:03 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Web应用程序目录[/Users/lovixk/test/tomcat_notes/apache-tomcat-7.0.109/webapps/examples]的部署已在[370]毫秒内完成
+6月 17, 2021 7:30:03 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: 把web 应用程序部署到目录 [/Users/lovixk/test/tomcat_notes/apache-tomcat-7.0.109/webapps/ROOT]
+6月 17, 2021 7:30:03 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Web应用程序目录[/Users/lovixk/test/tomcat_notes/apache-tomcat-7.0.109/webapps/ROOT]的部署已在[55]毫秒内完成
+6月 17, 2021 7:30:03 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: 把web 应用程序部署到目录 [/Users/lovixk/test/tomcat_notes/apache-tomcat-7.0.109/webapps/host-manager]
+6月 17, 2021 7:30:03 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Web应用程序目录[/Users/lovixk/test/tomcat_notes/apache-tomcat-7.0.109/webapps/host-manager]的部署已在[62]毫秒内完成
+6月 17, 2021 7:30:03 上午 org.apache.coyote.AbstractProtocol start
+信息: 开始协议处理句柄["http-bio-8080"]
+6月 17, 2021 7:30:03 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 1462 ms
+6月 17, 2021 7:37:50 上午 org.apache.coyote.AbstractProtocol pause
+信息: 暂停ProtocolHandler["http-bio-8080"]
+6月 17, 2021 7:37:51 上午 org.apache.catalina.core.StandardService stopInternal
+信息: 正在停止服务[Catalina]
+6月 17, 2021 7:37:51 上午 org.apache.coyote.AbstractProtocol stop
+信息: 正在停止ProtocolHandler ["http-bio-8080"]
+6月 17, 2021 7:37:51 上午 org.apache.coyote.AbstractProtocol destroy
+信息: 正在摧毁协议处理器 ["http-bio-8080"]

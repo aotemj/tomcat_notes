@@ -1,0 +1,32 @@
+6月 18, 2021 9:06:23 下午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+6月 18, 2021 9:06:23 下午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+6月 18, 2021 9:06:23 下午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('StockTicker', 'async.Stockticker@773e31d9')
+6月 18, 2021 9:06:23 下午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@6fae6f25')
+6月 18, 2021 9:50:41 下午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+6月 18, 2021 9:50:41 下午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+6月 18, 2021 9:51:12 下午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+6月 18, 2021 9:51:12 下午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+6月 18, 2021 9:51:12 下午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('StockTicker', 'async.Stockticker@619c3155')
+6月 18, 2021 9:51:12 下午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@21c795c')
+6月 18, 2021 10:03:45 下午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+6月 18, 2021 10:03:45 下午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+6月 18, 2021 10:03:54 下午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+6月 18, 2021 10:03:54 下午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+6月 18, 2021 10:03:54 下午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('StockTicker', 'async.Stockticker@658209e')
+6月 18, 2021 10:03:54 下午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@613335ab')
