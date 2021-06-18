@@ -141,7 +141,7 @@
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs"
                prefix="localhost_access_log." suffix=".txt"
                pattern="%h %l %u %t &quot;%r&quot; %s %b" />
-        <Context path="web2" docBase="/Users/lovixk/test/tomcat_notes/web2"></Context>
+         <Context path="web2" docBase="/Users/lovixk/test/tomcat_notes/web2"></Context>
       </Host>
     </Engine>
   </Service>
